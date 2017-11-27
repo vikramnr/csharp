@@ -2,7 +2,7 @@
 layout: post
 title:  "Assembely"
 categories: default
-tags: test syntax
+tags: Assembely
 ---
 
 A .net assembely contains our complied code which can run under the supervision of CLR.  Assemblies are either exe files

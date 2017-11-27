@@ -2,7 +2,7 @@
 layout: post
 title:  "Methods"
 categories: default
-tags: test syntax
+tags: Methods, Feilds 
 ---
 
 Methods

@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 categories: default
-tags: test syntax
+tags: Introduction
 ---
 
 C# runs on top .Net Framework. It provides the languages with basic syntax and interfaces that can be used for communication with other apps.

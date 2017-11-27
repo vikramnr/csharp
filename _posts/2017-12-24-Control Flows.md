@@ -2,7 +2,7 @@
 layout: post
 title:  "Control Flows"
 categories: default
-tags: test syntax
+tags: loops
 ---
 
 Control Flows are branching and looping statement which helps us in deciding the flow of our program. As like other languages syntax of 

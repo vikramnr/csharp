@@ -2,7 +2,7 @@
 layout: post
 title:  "Delegates"
 categories: default
-tags: test syntax
+tags: Delegates
 ---
 
 We are going to see how delegate works with help of our gradebook class which we created in initial stages. Our objective is to notify 
