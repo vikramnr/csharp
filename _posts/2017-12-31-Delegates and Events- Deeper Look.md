@@ -4,7 +4,7 @@ title:  "Delegates"
 categories: default
 tags: test syntax
 ---
-#### Delegate
+
 We are going to see how delegate works with help of our gradebook class which we created in initial stages. Our objective is to notify 
 user whenever there is change of our name of the gradebook.
 

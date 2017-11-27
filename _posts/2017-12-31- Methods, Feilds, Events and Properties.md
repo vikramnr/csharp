@@ -4,6 +4,7 @@ title:  "Methods"
 categories: default
 tags: test syntax
 ---
+
 #### Methods
 - Defines behaviour
 - Default access modifiyer is private, return type is void and can contain zero or more parameters

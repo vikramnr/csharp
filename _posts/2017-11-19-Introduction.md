@@ -4,10 +4,6 @@ title:  "Introduction"
 categories: default
 tags: test syntax
 ---
-# C Sharp
-Each Module has multiple chapters with coding examples with it.
-
-## Introduction to C#
 
 C# runs on top .Net Framework. It provides the languages with basic syntax and interfaces that can be used for communication with other apps.
 

@@ -5,8 +5,6 @@ categories: default
 tags: test syntax
 ---
 
-#### Assemblies
-
 A .net assembely contains our complied code which can run under the supervision of CLR.  Assemblies are either exe files
 in case of windows or dll files. exe file can be executed directly but the same can't be done with dll file. A dll file is a
 dynamic link library which contains the code that be re-used multiple times for building different applications.  It contains meta data
