@@ -5,7 +5,7 @@ categories: default
 tags: test syntax
 ---
 
-#### Methods
+Methods
 - Defines behaviour
 - Default access modifiyer is private, return type is void and can contain zero or more parameters
 - Method Signature consists of method name, number of parameters, type of that parameters.
