@@ -1,5 +1,4 @@
-
-####[Starting Out C#](https://vikramnr.github.io/csharp)
+[Starting Out C#](https://vikramnr.github.io/csharp)
 
 #### License
 
