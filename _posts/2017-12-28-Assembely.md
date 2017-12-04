@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Assembely"
-categories: default
+categories: Introduction
 tags: Assembely
 ---
 
