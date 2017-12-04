@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Delegates"
-categories: default
+categories: Introduction
 tags: Delegates
 ---
 
