@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Control Flows"
-categories: default
+categories: Introduction
 tags: loops
 ---
 
