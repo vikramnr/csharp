@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Methods"
-categories: default
+categories: Introduction
 tags: Methods, Feilds 
 ---
 
