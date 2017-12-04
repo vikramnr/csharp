@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction"
-categories: default
+categories: Introduction
 tags: Introduction
 ---
 
