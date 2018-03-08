@@ -7,7 +7,7 @@ tags: Introduction
 
 C# is an object oriented language which runs on top .Net Framework. The framework provides language with basic class libraries and interfaces that can be used in handling basic chores.
 
-###Compilation 
+### Compilation 
 
 Compiling any language supported that is supported by the framework can be broken down to two basic steps. First is to convert the code MSIL which will be common code for any language that is supported by the Framework. Second is to use .NET Framework to convert the code to native machine language with the help of JIT and CLR
 
