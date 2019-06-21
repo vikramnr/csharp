@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Breif Introduction to C#"
+title:  "Introduction to C#"
 categories: Introduction
 tags: Introduction
 ---
